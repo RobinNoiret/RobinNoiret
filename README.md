@@ -21,6 +21,8 @@
 🌱 Actuellement en formation d'**Ingénieur Informatique**<br>
 💡 Passionné par la **Data**, l'**Analyse** l'**Optimisation YouTube** et la **Vidéo**
 
+🗯️ Quote : "Code is like humor. When you have to explain it, it’s bad." – GPT
+
 <br>
 
 ## 💻 Stack Technique
