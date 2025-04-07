@@ -16,7 +16,7 @@
 ## 🚀 À propos de moi
 
 🎓 Étudiant en informatique à **CESI Ecole d'Ingénieurs**  
-💼 À la recherche d'unz alternance à partir de septembre
+💼 À la recherche d'une alternance à partir de septembre
 
 🌱 Actuellement en formation d'**Ingénieur Informatique**<br>
 💡 Passionné par la **Data**, l'**Analyse** l'**Optimisation YouTube** et la **Vidéo**
