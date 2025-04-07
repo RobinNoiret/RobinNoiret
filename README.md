@@ -16,7 +16,7 @@
 ## 🚀 À propos de moi
 
 🎓 Étudiant en informatique à **CESI Ecole d'Ingénieurs**  
-💼 À la recherche d'un stage pour une durée de **15 semaines** à partir d'**avril**
+💼 À la recherche d'unz alternance à partir de septembre
 
 🌱 Actuellement en formation d'**Ingénieur Informatique**<br>
 💡 Passionné par la **Data**, l'**Analyse** l'**Optimisation YouTube** et la **Vidéo**
@@ -36,12 +36,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 </p>
 
 ### 📚 Technologies en Apprentissage
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 </p>
 
 <!--
