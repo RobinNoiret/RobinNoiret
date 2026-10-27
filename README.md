@@ -8,18 +8,15 @@
   <a href="https://www.linkedin.com/in/robin-noiret-54bab9224/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:[robin.noiret2@gmail.com]" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
 </div>
 
 ## 🚀 À propos de moi
 
 🎓 Étudiant en informatique à **CESI Ecole d'Ingénieurs**  
-💼 À la recherche d'une alternance à partir de septembre
+💼 Alternant Data Engineer chez Groupe VICAT
 
 🌱 Actuellement en formation d'**Ingénieur Informatique**<br>
-💡 Passionné par la **Data**, l'**Analyse** l'**Optimisation YouTube** et la **Vidéo**
+💡 Passionné par la **Data**, l'**Analyse** le **Sport** et la **Vidéo**
 
 🗯️ Quote : "Code is like humor. When you have to explain it, it’s bad." – GPT
 
@@ -53,5 +50,5 @@
 
 ## 📫 Contact
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/robin-noiret-54bab9224/)
-- 🌐 [Portfolio](https://robinnoiret.fr/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/robinnoiret/)
+- 🌐 [Portfolio](https://robinnoiret.com/)
